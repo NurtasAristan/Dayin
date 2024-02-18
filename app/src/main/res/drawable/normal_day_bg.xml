@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/transparent" android:state_selected="true" /> <!-- Set the background when the day is selected -->
+    <item android:drawable="@android:color/white" /> <!-- Set the default background color for normal days -->
+</selector>

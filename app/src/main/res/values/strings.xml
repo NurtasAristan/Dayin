@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dayin</string>
+    <string name="tab_text_1">Projects</string>
+    <string name="tab_text_2">Methods</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todelete">toDelete</string>
+
+    <string name="previous_button_description">Previous</string>
+</resources>
